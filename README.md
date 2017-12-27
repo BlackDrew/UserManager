@@ -113,3 +113,7 @@ password: janedoe
 
 ### Author
 **Olajide Bolaji 'Nuel** - Software Developer at Andela
+
+### N.B
+
+It doesn't work but I went through hell to get npm and Docker, that has to count for something
